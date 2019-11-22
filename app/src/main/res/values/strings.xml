@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MeterToInches</string>
+    <string name="button_name">Convert</string>
+    <string name="placeholder">Meters</string>
+    <string name="logo_contentdesc">Main Logo</string>
+</resources>
